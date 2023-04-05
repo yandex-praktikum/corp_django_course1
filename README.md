@@ -1,1 +1,1 @@
-# free-django
+# Blogicum
